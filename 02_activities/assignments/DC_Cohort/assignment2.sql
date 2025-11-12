@@ -294,4 +294,3 @@ SET current_quantity = COALESCE((
 	  )
 ), 0);
 
-
