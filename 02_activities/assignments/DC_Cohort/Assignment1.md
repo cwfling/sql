@@ -205,5 +205,12 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+Values embedded in databases and data systems may directly influence the societal structures and individual experiences encountered in day-to-day life, often reflecting societal norms and biases. The Wired article, When Databases Get to Define Family, show examples of this which can happen in Pakistan but may also happen in nations with centralized and powerful governments like China. As such, the design choices and underlying logic of these systems can shape access, inclusion, and marginalization for these countries.
+
+Fortunately, to my knowledge and experiences as a Canadian Citizen, Canada and Ontario has not had such large blockages on services if data has not been updated or expired. Necessities like health care and everyday transit would still be available to you. However, some services or allowances like not having an updated driver’s license and driving is illegal or similarly having an outdated passport and flying internationally.  In other cases, like the act of voting, showing proof of address from a large variety of sources ranging from the standard driver’s license to a school transcript is sufficient. This recognizes the right to vote for people that are in the area and enables those who may not have stable housing or access to official documents.
+
+An interesting case in my day-to-day life would be the marketing information and the profile that has been built up over time by Google that is sold to different advertisers. The amount of information that has been built up over time as a trade off for using their services is vast and scarily accurate as they have been tracking searches, emails, clicks, and so on over large periods of time. The amount of detail was unknown to me until I have specifically requested my information, and this is crazy because I believe that if more people knew what was tracked, they would be hesitant on what is agreed upon when clicking the “I agree” button. As such, data privacy, security, and integrity come into question as a simple leak could expose many details from a huge population and it gets easier with more companies paying for access to this information. 
+
+Although I do not currently know of many examples of fairness, inequality, social structures, and marginalization in my day-to-day life, reading about these systems will change and affect how I think about and design data systems in the future. Strategies like allowing for future modifications in case laws or views change or having policy makers or committees overseeing some aspects of data systems may be a good start. 
+
 ```
