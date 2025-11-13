@@ -183,5 +183,10 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+The story “Neural nets are just people all the way down” highlights several crucial ethical issues at the intersection of machine learning, labor, bias, content moderation, and broader technology-society impacts. The article makes it clear that, beneath the surface of modern AI and large language models, extensive manual human labor and subjective decision-making profoundly shape these systems and their outcomes.
+
+Many to all of the AI/neural net services are built on the backs on underpaid and overworked people who do not receive any recognition. This would be similar to how things are manufactured like clothes and other consumer goods. People from more marginalized backgrounds or have some power imbalance are a huge part of both these processes. Additionally, since the backbone databases of these services (ImageNet and others) have leveraged human identification or classification, a person’s opinions, biases, and judgements would come into play when labeling certain images. Examples being words to describe a person or associations to items in order to build their word nets. These biases also would not include people’s own incentives. If there were bad faith actors or people who were trying to sort through the most to get paid, things may not be labelled as accurately as people who would take their time and think about each item. 
+
+It is very important to think about the use and generation of AI-related content as it has been built on all these prior classifications – the well-intentioned and those of ill will. This means that the things generated from these AI services should be looked at with a critical eye before using or releasing the products to the public. A recent example of little to no review of AI content would be Coca Cola. They have been under fire as they decided to use AI to generate a commercial riddled with errors instead of paying artists or film crews to make a good piece of media. As a result, they have been heavily ridiculed online and fortunately brought some light into the current capabilities of AI - useful to generate base ideas and flesh out processes but ultimately still requires a human touch to finish a product. 
+
 ```
